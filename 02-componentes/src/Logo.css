@@ -1,0 +1,10 @@
+header div.container img {
+    margin: 0 auto;
+    height: 100px;
+}
+
+@media screen and (min-width: 950px) {
+    header div.container img {
+        margin: 0 0;
+    }
+}

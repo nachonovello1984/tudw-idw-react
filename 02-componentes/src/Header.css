@@ -1,0 +1,26 @@
+header {
+    width: 100%;
+    min-height: 120px;
+
+    background-color: white;
+}
+
+header div.container {
+    display: flex;
+
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+    margin: 0 auto;
+    width: 100%;
+    min-width: 500px;
+
+    gap: 2rem;
+}
+
+@media screen and (min-width: 950px) {
+    header div.container {
+        width: 80%;
+        min-width: 1000px;
+    }
+}
