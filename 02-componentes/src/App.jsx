@@ -8,9 +8,9 @@ import { Footer } from './Footer'
 function App() {
   return (
     <>
-      <Header />
+      <Header nombre="Intro a ReactJS"/>
       <Nav />
-      <Main nroClase="8" tituloTema="Introducción a ReactJS" />
+      <Main nroClase="8" tituloTema="Como hacer uso de las props" />
       <Footer />
     </>
   );

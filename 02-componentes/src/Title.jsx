@@ -1,5 +1,5 @@
 import './Title.css';
 export const Title = function (props) {
-    return <h1>Introducción a ReactJS</h1>;
+    return <h1>{props.nombre}</h1>;
 }
 
