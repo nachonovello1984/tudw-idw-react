@@ -8,7 +8,7 @@ import { Footer } from './Footer'
 function App() {
   return (
     <>
-      <Header nombre="Intro a ReactJS"/>
+      <Header nombre="Introducción a ReactJS"/>
       <Nav />
       <Main nroClase="8" tituloTema="Como hacer uso de las props" />
       <Footer />

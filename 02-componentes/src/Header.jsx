@@ -4,12 +4,12 @@ import { Title } from './Title';
 
 import React from 'react';
 
-export const Header = (props) => {
+export const Header = ({nombre}) => {
     return (<header>
 
         <div className="container">
             <Logo />            
-            <Title nombre={props.nombre}/>
+            <Title nombre={nombre}/>
         </div>
     </header>);
 }

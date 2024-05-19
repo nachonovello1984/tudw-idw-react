@@ -1,0 +1,23 @@
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table th{
+    color: blue;
+}
+
+table th,
+table td {
+    padding: 2px 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid black;
+}
+
+table tr:nth-child(odd) {
+    background-color: white;
+}
+
+table tr:nth-child(even) {
+    background-color: #CCC;
+}
