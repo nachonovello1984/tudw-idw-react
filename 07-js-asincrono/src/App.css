@@ -1,0 +1,19 @@
+main {
+    margin: 1.5rem;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+tr:nth-child(even) {
+    background-color: #CCC;
+}
+
+tr:nth-child(odd) {
+    background-color: white;
+}
+
+td{
+    padding: 0.5rem;
+}
