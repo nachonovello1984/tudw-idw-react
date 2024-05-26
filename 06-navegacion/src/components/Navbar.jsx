@@ -1,11 +1,12 @@
 import './Navbar.module.css';
+import { Link } from 'react-router-dom';
 
 export const Navbar = () => {
     return <nav>
         <ul>
-            <li><a href="/">Inicio</a></li>
-            <li><a href="/institucional">Institucional</a></li>
-            <li><a href="/contacto">Contacto</a></li>
+            <li><Link to="/">Inicio</Link></li>
+            <li><Link to="/institucional">Institucional</Link></li>
+            <li><Link to="/contacto">Contacto</Link></li>
         </ul>
     </nav>;
 }

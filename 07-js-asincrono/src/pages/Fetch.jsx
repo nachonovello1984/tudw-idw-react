@@ -39,7 +39,7 @@ export const Fetch = () => {
                 <tr><th>N.º</th><th>Pos.</th><th>Nombre</th><th>Edad</th></tr>
             </thead>
             <tbody>
-                {jugadores.map(x => <tr>
+                {jugadores.map((x, index) => <tr key={index}>
                     <td>{x.dorsal}</td>
                     <td>{x.nacionalidad}</td>
                     <td>{x.nombre}</td>
