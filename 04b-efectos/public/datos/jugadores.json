@@ -1,0 +1,104 @@
+[
+  {
+    "nombre": "Emiliano Martínez",
+    "posicion": "Arquero",
+    "club": "Aston Villa (Inglaterra)",
+    "numero": 23
+  },
+  {
+    "nombre": "Franco Armani",
+    "posicion": "Arquero",
+    "club": "River Plate (Argentina)",
+    "numero": 1
+  },
+  {
+    "nombre": "Gerónimo Rulli",
+    "posicion": "Arquero",
+    "club": "Ajax (Países Bajos)",
+    "numero": 12
+  },
+  {
+    "nombre": "Cristian Romero",
+    "posicion": "Defensor",
+    "club": "Tottenham Hotspur (Inglaterra)",
+    "numero": 13
+  },
+  {
+    "nombre": "Lisandro Martínez",
+    "posicion": "Defensor",
+    "club": "Manchester United (Inglaterra)",
+    "numero": 25
+  },
+  {
+    "nombre": "Nicolás Otamendi",
+    "posicion": "Defensor",
+    "club": "Benfica (Portugal)",
+    "numero": 19
+  },
+  {
+    "nombre": "Nahuel Molina",
+    "posicion": "Defensor",
+    "club": "Atlético de Madrid (España)",
+    "numero": 26
+  },
+  {
+    "nombre": "Gonzalo Montiel",
+    "posicion": "Defensor",
+    "club": "Nottingham Forest (Inglaterra)",
+    "numero": 4
+  },
+  {
+    "nombre": "Enzo Fernández",
+    "posicion": "Mediocampista",
+    "club": "Chelsea (Inglaterra)",
+    "numero": 24
+  },
+  {
+    "nombre": "Rodrigo De Paul",
+    "posicion": "Mediocampista",
+    "club": "Atlético de Madrid (España)",
+    "numero": 7
+  },
+  {
+    "nombre": "Alexis Mac Allister",
+    "posicion": "Mediocampista",
+    "club": "Liverpool (Inglaterra)",
+    "numero": 20
+  },
+  {
+    "nombre": "Leandro Paredes",
+    "posicion": "Mediocampista",
+    "club": "AS Roma (Italia)",
+    "numero": 5
+  },
+  {
+    "nombre": "Lionel Messi",
+    "posicion": "Delantero",
+    "club": "Inter Miami (Estados Unidos)",
+    "numero": 10
+  },
+  {
+    "nombre": "Lautaro Martínez",
+    "posicion": "Delantero",
+    "club": "Inter de Milán (Italia)",
+    "numero": 22
+  },
+  {
+    "nombre": "Julián Álvarez",
+    "posicion": "Delantero",
+    "club": "Manchester City (Inglaterra)",
+    "numero": 9
+  },
+  {
+    "nombre": "Ángel Di María",
+    "posicion": "Delantero",
+    "club": "Benfica (Portugal)",
+    "numero": 11
+  },
+  {
+    "nombre": "Nicolás González",
+    "posicion": "Delantero",
+    "club": "Fiorentina (Italia)",
+    "numero": 15
+  }
+]

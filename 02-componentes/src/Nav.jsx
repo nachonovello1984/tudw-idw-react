@@ -9,4 +9,4 @@ export const Nav = (props) => {
             <li><a href="#">Use Effect</a></li>
         </ul>
     </nav>;
-}
+};

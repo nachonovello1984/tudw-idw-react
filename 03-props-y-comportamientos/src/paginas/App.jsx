@@ -1,6 +1,6 @@
 import './../paginas/App.css';
 import { datos } from './../datos/partidos'
-import { PartidosTablaV3Click } from './../componentes/PartidosTablaV3Click';
+import { PartidosTablaV3Click } from '../componentes/PartidosTablaV3Click';
 
 function App() {
   return (
